@@ -1,0 +1,21 @@
+
+body {
+    background-color: #1d2d3c !important;
+}
+
+.container {
+    height: 90vh;
+}
+
+.disc {
+    background-color: #112030;
+}
+
+.img-box {
+    width: 85%;
+    aspect-ratio: 1/1;
+}
+
+img {
+    width: 100%;
+}
